@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from .src.HTMLInspector import *
+from JokesParser.src.HTMLInspector import *
 
 
 class Scrapper:
